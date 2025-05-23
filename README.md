@@ -4,4 +4,4 @@ This repository serves as a central directory of all ACL'25 publications by the 
 
 The code and data associated with the respective publications is found in the repositories linked below:
 
-* Maja Stahl, Timon Ziegenbein, Joonsuk Park, Henning Wachsmuth. ArgInstruct: Specialized Instruction Fine-Tuning for Computational Argumentation. [[paper](#)] [[code]([#](https://github.com/timonziegenbein/arg-instruct))] [[data]([#](https://github.com/timonziegenbein/arg-instruct))]
+* Maja Stahl, Timon Ziegenbein, Joonsuk Park, Henning Wachsmuth. ArgInstruct: Specialized Instruction Fine-Tuning for Computational Argumentation. [[paper](#)] [[code](https://github.com/timonziegenbein/arg-instruct)] [[data](https://github.com/timonziegenbein/arg-instruct)]
